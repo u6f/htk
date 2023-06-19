@@ -4,7 +4,7 @@
 A simple cli utility to export & import hanime.tv playlists
 
 
-## ★ Insallation
+## Insallation
 
 ```bash
 pip install -r requirements.txt
